@@ -1,0 +1,14 @@
+termux-setup-storage
+apt upgrade
+apt update 
+pkg upgrade
+pkg update
+pkg update && pkg upgrade
+pkg install mplayer
+pkg install python
+qemu-system-i386 -y
+pkg install x11-repo -y
+pkg install qemu-user-i386 -y
+
+chmod +x BT
+bash BT

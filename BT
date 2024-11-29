@@ -1,0 +1,32 @@
+chmod 777 xynbxm/rc1
+chmod 777 xynbxm/rc2
+chmod 777 xynbxm/rc3
+chmod 777 xynbxm/rc4
+chmod 777 xynbxm/rc5
+chmod 777 xynbxm/rc6
+chmod 777 xynbxm/rc7
+chmod 777 xynbxm/rc8
+chmod 777 xynbxm/rc9
+chmod 777 xynbxm/rc10
+chmod 777 xynbxm/rc1.py
+chmod 777 xynbxm/rc2.py
+chmod 777 xynbxm/quickbms
+chmod 777 xynbxm/打包.bms
+chmod 777 xynbxm/解包.bms
+chmod +x xynbxm/rc1
+chmod +x xynbxm/rc2
+chmod +x xynbxm/rc3
+chmod +x xynbxm/rc4
+chmod +x xynbxm/rc5
+chmod +x xynbxm/rc6
+chmod +x xynbxm/rc7
+chmod +x xynbxm/rc8
+chmod +x xynbxm/rc9
+chmod +x xynbxm/rc10
+chmod +x xynbxm/rc1.py
+chmod +x xynbxm/rc2.py
+chmod +x xynbxm/quickbms
+chmod +x xynbxm/打包.bms
+chmod +x xynbxm/解包.bms
+
+"./xynbxm/rc7"
