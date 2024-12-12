@@ -40,3 +40,15 @@ cd BT
 ```
 ./BT
 ```
+##Use instructional video
+bilibili Channel Video: BTv7 How to build and use the cloud
+https://b23.tv/0k4jgLw
+
+How to check the wrong place in the template
+https://b23.tv/0oZpdci
+
+Kuaishou Channel Video: BTv7 Cloud How to build teaching click on the link, open Kuaishou use directly watch!
+ https://v.kuaishou.com/96Xzba
+
+How to check the template error place, open the fast hand click on the link directly watch!
+ https://v.kuaishou.com/5Ae0mz
