@@ -27,8 +27,10 @@ cd BT
 chmod +x BT
 ```
 ```
-bash BT
+./BT
 ```
+##如果输入后报错: - CANNOT LINK EXECUTABLE '/dev/fd/3': cannot locate symbol "_ZTINSt6__ndk114basic_ofstreamIcNS_11char_traitsIcEE" referenced by "/data/data/com.termux/files/usr/tmp/...
+##那么请重新启动termux 输入指令: pkg install clang  等待执行完毕再启动BT
 ```
 输入 2 并回车 进行搭建环境 然后输入 1 启动工具
 ```
