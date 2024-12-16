@@ -1,0 +1,20 @@
+termux-setup-storage
+apt upgrade
+apt update
+pkg upgrade
+pkg update
+pkg upgrade
+pkg install clang
+clang --version
+pkg install curl
+pkg install make wget tree
+pkg install mplayer
+pkg install unzip
+pkg install wget
+pkg install python
+pkg install python-pip
+pip install requests
+qemu-system-i386 -y
+pkg install x11-repo -y
+pkg install qemu-user-i386 -y
+echo "运行环境安装成功"
